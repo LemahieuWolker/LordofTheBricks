@@ -1,0 +1,11 @@
+body{
+    background: url("../media/loginBackground.png") no-repeat;
+    background-size: cover;
+}
+
+label{
+    color: white;
+}
+input[type=text],input[type=password]{
+    display: block;
+}

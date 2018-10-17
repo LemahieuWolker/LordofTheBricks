@@ -1,0 +1,9 @@
+body{
+    background: url("../media/loginBackground.png") no-repeat;
+    background-size: cover;
+}
+
+label{
+    display: inline-block;
+    color: white;
+}

@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="The Lord Of The Tetris">
+    <output-path>$PROJECT_DIR$/out/artifacts/The_Lord_Of_The_Tetris</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="Program" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="nativeBundle" value="all" />
+        <option name="title" value="The Lord Of The Tetris" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="tetrisGui2.jar">
+        <element id="module-output" name="tetrisGui2" />
+      </element>
+    </root>
+  </artifact>
+</component>

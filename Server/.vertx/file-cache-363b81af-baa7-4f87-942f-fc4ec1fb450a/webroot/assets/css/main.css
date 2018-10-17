@@ -1,0 +1,25 @@
+body{
+    background: url("../media/screenbackground.png") no-repeat;
+    background-size: 100vw 100vh;
+}
+#playfield{
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+    margin: auto;
+    margin-top: 5vh;
+
+}
+#playfield p{text-align: center}
+#playfield figure{display: inline-block}
+canvas{
+    display: inline-block;
+    width: 25vw;
+    height: 90vh;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-image: url("../media/background.png");
+}
+p,figcaption{
+    color: white;
+}

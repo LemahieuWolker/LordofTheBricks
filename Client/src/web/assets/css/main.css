@@ -1,0 +1,32 @@
+h1 {
+    text-align: center;
+    margin-top: 20%;
+    color: gold;
+    text-shadow: 0 0 0.5em yellow;
+    font-size: 10vw;
+
+}
+body{
+    background : url('../media/background.jpg') no-repeat;
+    background-size: 100vw 100vh;
+    }
+button,h1{
+    font-family: "Brush Script MT";
+    font-weight: bolder;
+}
+
+button{
+    color: black;
+    margin: auto;
+    display: block;
+    font-size: 5vw;
+    width: 35vw;
+    height: 15vh;
+    background: url('../media/button.jpg') no-repeat;
+    background-size: cover;
+    border: none;
+    border-radius: 10%;
+}
+button:hover{
+    text-shadow: 0 0 0.5em yellow;
+}

@@ -1,0 +1,32 @@
+body{
+    background: url("../media/loginBackground.png") no-repeat;
+    background-size: cover;
+}
+label,input{
+    font-family: "Brush Script MT", serif}
+form{
+    display: inline-block;
+    margin-left: 80vw;
+    margin-top: 50vh;
+}
+label{
+    margin-top: 1vh;
+    color: white;
+    font-size: 3vw;
+}
+input[type=text],input[type=password]{
+    width: 15vw;
+    height: 3vh;
+    display: block;
+}
+
+input[type=button],input[type=submit]{
+    width: 49%;
+    height: 3vh;
+    font-size: 1.5vw;
+    background: none;
+    border: solid white 1px;
+    border-radius: 25%;
+    color: white;
+    padding-bottom: 1vh;
+}

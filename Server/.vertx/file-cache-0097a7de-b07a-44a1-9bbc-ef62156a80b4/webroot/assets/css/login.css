@@ -1,0 +1,19 @@
+body{
+    background: url("../media/loginBackground.png") no-repeat;
+    background-size: cover;
+    font-family: "Brush Script MT";
+}
+form{
+    display: inline-block;
+    margin-left: 80vw;
+    margin-top: 50vh;
+}
+label{
+    color: white;
+    font-size: 2vw;
+}
+input[type=text],input[type=password]{
+    width: 20vw;
+    height: 3vh;
+    display: block;
+}
